@@ -4,6 +4,7 @@ Red
 blue
 green
 pink
+red
 orange
 unicorn
 blue
